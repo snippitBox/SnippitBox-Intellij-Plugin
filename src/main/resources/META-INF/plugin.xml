@@ -1,0 +1,16 @@
+<idea-plugin>
+    <id>com.snippetbox.intellij.IntellijPlugin</id>
+    <!--suppress PluginXmlCapitalization -->
+    <name>snippitBox</name>
+    <vendor email="support@snippitbox.com" url="https://snippitbox.web.app/">Furry and Co.</vendor>
+
+    <description>snippitBox integration for the IntelliJ Platform.</description>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+    </extensions>
+
+    <actions>
+    </actions>
+</idea-plugin>
